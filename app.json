@@ -1,0 +1,28 @@
+{
+  "id": "771657e3-4364-4419-b5f1-29b2d53ca387",
+  "name": "TTT Hurra Core",
+  "publisher": "Telos Team",
+  "brief": "TTT Hurra Core",
+  "description": "Core objects for Hurra",
+  "version": "1.0.0.11",
+  "privacyStatement": "http://telosteam.dk/privacy",
+  "EULA": "http://telosteam.dk/eula",
+  "help": "http://telosteam.dk/support",
+  "url": "http://telosteam.dk",
+  "logo": "./res/TT_Logo square.png",
+  "capabilities": [],
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "13.0.0.0",
+  "application": "13.0.0.0",
+  "idRange": {
+    "from": 50000,
+    "to": 50099
+  },
+  "runtime": "2.1",
+  "showMyCode": true,
+  "features": [
+    "TranslationFile"
+  ],
+  "target": "Extension"
+}

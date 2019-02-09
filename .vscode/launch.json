@@ -1,0 +1,26 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "al",
+            "request": "launch",
+            "name": "Microsoft cloud sandbox, Hummels",
+            "tenant": "hummelsdk.onmicrosoft.com",
+            "startupObjectId": 50001,
+            "startupObjectType": "Page",
+            "breakOnError": true
+        },
+        {
+            "type": "al",
+            "request": "launch",
+            "name": "Your own server, Cronus_Dev_BC",
+            "server": "http://localhost",
+            "serverInstance": "Cronus_Dev_BC",
+            "port": 13004,
+            "authentication": "UserPassword",
+            "startupObjectId": 89,
+            "startupObjectType": "Page",
+            "breakOnError": true
+        }
+    ]
+}

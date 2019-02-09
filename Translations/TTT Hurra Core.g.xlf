@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="en-US" original="TTT Hurra Core">
+    <body>
+      <group id="body">
+        <trans-unit id="Table 1841708348 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Hurrapost</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table TTTHURRA HurraEntry - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1841708348 - Field 170151415 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Løbenr.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table TTTHURRA HurraEntry - Field TTTHURRA EntryNo - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1841708348 - Field 2672750777 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Navn</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table TTTHURRA HurraEntry - Field TTTHURRA Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1841708348 - Field 2339794564 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Firmanavn</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table TTTHURRA HurraEntry - Field TTTHURRA CompanyName - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1841708348 - Field 3287702712 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>E-mail</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table TTTHURRA HurraEntry - Field TTTHURRA Email - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1841708348 - Field 2099891172 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Oprettet</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table TTTHURRA HurraEntry - Field TTTHURRA Created - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1841708348 - Field 1633636132 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Oprettet</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table TTTHURRA HurraEntry - Field TTTHURRA CreatedDT - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 648958542 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Hurraposter</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TTTHURRA Entries - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1130554352 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Hurra</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TTTHURRA Entry - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1130554352 - Control 2158823145 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>(Husk at trykke på GEM i menuen...)</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TTTHURRA Entry - Control TTTHURRA Group - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1130554352 - Action 41604171 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Gem</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TTTHURRA Entry - Action TTTHURRA Save - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2494055865 - Action 1171609228 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Hurra</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension TTTHURRA RoleCenter - Action TTTHURRA NewEntry - Property Caption</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>
